@@ -4,7 +4,7 @@ Scenario:
 The Lucky Shrub database contains a lot of data about their business. The data is increasing continuously. 
 This database consists of many tables including Clients, Orders, Products, Addresses, Employees, Audits, Notifications, and Activity as shown in the following ER-Diagram.
 
-<img width="555" alt="er" src="https://github.com/amalseby/sql/assets/60167060/23e879e0-90e7-43f2-ae39-c3b1a83a44d3">
+
 
 
 
