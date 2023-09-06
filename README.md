@@ -128,6 +128,7 @@ Lucky Shrub needs to find out what their average sale price or cost was for a pr
 You can help them with this task by creating a FindAverageCost() function that returns the average sale price value of all products in a specific year. This should be based on the user input.
 
 The screenshot below shows the average cost returned from the FindAverageCost() function based on the user input of the year 2022:
+<img width="240" alt="Screen Shot 2023-09-06 at 11 42 00 pm" src="https://github.com/amalseby/sql/assets/60167060/358e08c4-c2f8-46b8-aede-ef2a37e2fb6c">
 
 
 
@@ -148,6 +149,7 @@ Step 3: Output the values into outside variables.
 
 The screenshot below shows the total number of items sold during the last three years of the P1 ProductID.
 
+<img width="603" alt="Screen Shot 2023-09-06 at 11 42 23 pm" src="https://github.com/amalseby/sql/assets/60167060/6d67a1b4-756e-44a5-8596-baa035403eba">
 
 
 
@@ -165,6 +167,7 @@ Remember: The AuditID is an auto increment key. Therefore, you don't need to ins
 
 For example, when you insert three new orders in the Orders table, then three records of data are automatically inserted into the Audit table. This is shown in the following screenshot:
 
+<img width="214" alt="Screen Shot 2023-09-06 at 11 42 42 pm" src="https://github.com/amalseby/sql/assets/60167060/bca16a2f-f655-4878-990f-0ffa8d96e94a">
 
 
 
@@ -180,6 +183,7 @@ Lucky Shrub needs location data for their clients and employees. To help them ou
 
 The data should be ordered by the street name. The output result is shown in the following screenshot:
 
+<img width="423" alt="Screen Shot 2023-09-06 at 11 43 04 pm" src="https://github.com/amalseby/sql/assets/60167060/47b9fd5c-8862-4817-ba40-12f05a0c7e44">
 
 
 
@@ -197,6 +201,7 @@ SELECT CONCAT (SUM(Cost), " (2020)") AS "Total sum of P2 Product" FROM Orders WH
 
 The output of this query is shown in the following screenshot:
 
+<img width="214" alt="Screen Shot 2023-09-06 at 11 45 16 pm" src="https://github.com/amalseby/sql/assets/60167060/9d208cb8-ea9d-4762-a3b7-8cc509536cab">
 
 
 
@@ -209,6 +214,7 @@ Your task is to optimize this query by recreating it as a common table expressio
 Task 6:
 
 Lucky Shrub wants to know more about the activities of the clients who use their online store. The system logs the ClientID and the ProductID information for each activity in a JSON Properties column inside the Activity table. This occurs while clients browse through Lucky Shrub products online. The following screenshot shows the Activity table.
+<img width="434" alt="Screen Shot 2023-09-06 at 11 45 40 pm" src="https://github.com/amalseby/sql/assets/60167060/44610169-f050-41c4-8df0-dedb22ad913a">
 
 
 
@@ -228,6 +234,7 @@ Use the following code to access the property value without double quotations fr
 
 The output result of this query is shown in the screenshot below:
 
+<img width="410" alt="Screen Shot 2023-09-06 at 11 46 13 pm" src="https://github.com/amalseby/sql/assets/60167060/5c36d122-5a4d-4e64-9000-dbaba916d53a">
 
 
 
@@ -242,6 +249,7 @@ Create a stored procedure called GetProfit that returns the overall profits gene
 For example, the output result of GetProfit procedure with the P1 ProductID and Year 2020 is displayed in the screenshot below:
 
 
+<img width="249" alt="Screen Shot 2023-09-06 at 11 46 38 pm" src="https://github.com/amalseby/sql/assets/60167060/bbebf89b-6e72-40b3-8c6f-91c81f140389">
 
 
 
@@ -276,6 +284,7 @@ The virtual table should show relevant data for year 2022 only. Order the data b
 An example is shown in the following screenshot:
 
 
+<img width="602" alt="Screen Shot 2023-09-06 at 11 47 14 pm" src="https://github.com/amalseby/sql/assets/60167060/724268b2-bbe9-4e8d-83e8-5368992f067d">
 
 
 
