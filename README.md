@@ -6,6 +6,7 @@ This database consists of many tables including Clients, Orders, Products, Addre
 
 
 
+<img width="760" alt="ER" src="https://github.com/amalseby/sql/assets/60167060/40e30bfb-c12a-4363-804e-160527958b8c">
 
 
 
